@@ -404,3 +404,6 @@ elif user_sign_in == "student data":
     except FileNotFoundError:
         print("Your Student data is empty")
         print("Try Creating an account first")
+
+
+print()
